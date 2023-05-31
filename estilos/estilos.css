@@ -143,3 +143,8 @@ div img{
 .cabecera{
     background-color: blue;
 }
+.fieldset {
+    border-radius: 10px;
+    width: 500px;
+    background-color:brown;
+}
